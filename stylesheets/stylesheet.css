@@ -542,7 +542,7 @@ aside a.button {
   padding-left: 64px;
   margin-bottom: 20px;
   font-size: 21px;
-  background: transparent url(../images/download-button.png) 0 0 no-repeat;
+  background: transparent url(../images/foodsharing.jpg) 0 0 no-repeat;
 }
 
 code, pre {
@@ -747,7 +747,7 @@ footer {
   margin-top: 40px;
   font-size: 13px;
   color: #aaa;
-  background: transparent url('../images/hr.png') 0 0 no-repeat;
+  background: transparent url('../images/foodsharing.png') 0 0 no-repeat;
 }
 
 footer a {
