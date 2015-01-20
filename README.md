@@ -1,2 +1,2 @@
 # lernreisepierre
-[a](lernreise.github.io/lernreisepierre)
+[a](http://lernreise.github.io/lernreisepierre/)
